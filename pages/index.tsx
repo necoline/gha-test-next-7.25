@@ -14,7 +14,7 @@ const Home: NextPage = () => {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to my test project in CodeSandbox!
+          Welcome to my new test project in CodeSandbox!
         </h1>
 
         <p className={styles.description}>
