@@ -6,6 +6,11 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 [![Edit in CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/github/codesandbox/codesandbox-template-next.js)
 
+## Get Started
+```bash
+yarn dev
+```
+
 ## Resources
 
 - [CodeSandbox Projects — Docs](https://codesandbox.io/docs/projects)
