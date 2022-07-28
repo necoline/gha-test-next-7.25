@@ -12,7 +12,7 @@
       "runAtStart": true,
       "preview": {
         "port": 3000,
-        "pr-link": "direct"
+        "pr-link": "redirect"
       }
     },
     "build": {
