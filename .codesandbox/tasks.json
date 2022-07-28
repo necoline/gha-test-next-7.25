@@ -7,7 +7,7 @@
   ],
   "tasks": {
     "dev": {
-      "name": "dev",
+      "name": "Preview",
       "command": "yarn dev",
       "runAtStart": true,
       "preview": {
