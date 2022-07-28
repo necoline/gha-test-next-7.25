@@ -11,8 +11,8 @@
       "command": "yarn dev",
       "runAtStart": true,
       "preview": {
-        "port": 4000,
-        "pr-link": "direct"
+        "port": 3000,
+        "pr-link": "redirect"
       }
     },
     "build": {
