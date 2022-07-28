@@ -12,7 +12,7 @@
       "runAtStart": true,
       "preview": {
         "port": 4000,
-        "pr-link": "redirect"
+        "pr-link": "devtool"
       }
     },
     "build": {
